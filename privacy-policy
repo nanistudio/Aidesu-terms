@@ -25,11 +25,19 @@ We take reasonable steps to protect your information from unauthorized access or
 
 Image Uploads
 
-When using Aidesu, users have the option to upload images for various purposes within the application. It is important to clarify that we do not save or store any images uploaded by users. Once an image is uploaded and processed within the application, it will be deleted from the third-party server within an hour. We do not retain any copies of the uploaded images or face data, nor do we use them for any other purpose beyond the intended functionality of Aidesu.
+When using Aidesu, users have the option to upload images for various purposes within the application. It is important to clarify that we do not save or store any images uploaded by users. Once an image is uploaded and processed within the application, it will be deleted from the third-party server within an hour normally. We do not retain any copies of the uploaded images or face data, nor do we use them for any other purpose beyond the intended functionality of Aidesu.
 
 Automatic Deletion
 
 To ensure the privacy and security of our users, we have implemented automated processes that delete uploaded images promptly. This means that once an image has been processed and its intended purpose fulfilled, it is automatically removed from the server without any manual intervention. Our system is designed to prioritize the confidentiality of user data, and this includes the deletion of any uploaded images to minimize the potential for unauthorized access.
+
+Sharing of Face Data with Third Parties
+
+We may share face data with a trusted third-party service provider for the purpose of utilizing their facial recognition technology. This enables us to offer advanced features and functionalities within Aidesu. The third-party service provider stores face data temporarily for a limited duration, typically not exceeding 24 hours, and their privacy practices govern the storage and handling of this data.
+
+The privacy practices of the third-party service provider align with industry standards and regulations to ensure the security and confidentiality of user data. Their privacy policy describes the reasons for storing face data, the length of time it will be stored, and the security measures in place to protect the data. Please refer to their privacy policy for more information regarding the privacy practices of the third-party service provider.
+
+We take reasonable steps to ensure that any third parties we share face data with uphold stringent privacy and security standards to safeguard your information.
 
 Your Responsibility
 
